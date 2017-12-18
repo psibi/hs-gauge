@@ -43,6 +43,7 @@ library
     Gauge.Measurement
     Gauge.Monad
     Gauge.Time
+    Gauge.Format
 
     Gauge.Source.RUsage
     Gauge.Source.GC
